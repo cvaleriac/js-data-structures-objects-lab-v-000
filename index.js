@@ -1,4 +1,2 @@
 
-function driver() {
-  const driver ={driver:'driver'};
-}
+const driver = {};
